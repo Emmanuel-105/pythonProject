@@ -1,2 +1,2 @@
 # pythonProject
-This repository is for various python projects you can try.
+This repository is for various python projects I have completed and you can try.
